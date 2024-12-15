@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Sherlock XuF"
 
 [params]
   displayName = "EN"
@@ -13,6 +13,23 @@ title = "Blowfish"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "XuFei"
+  email = "youremail@example.com"
+  image = "img/Crossbell IPFS.png"
+  imageQuality = 96
+  bio = "A little bit about you"
+  links = [
+    { email = "mailto:hello@your_domain.com" },
+    { github = "https://github.com/xuf-95" },
+    { discord = "https://discord.gg/xuf" },
+    { x-twitter = "https://x.com/home" },
+    { instagram = "https://instagram.com/xuf-mike/" },
+    { linkedin = "https://www.linkedin.com/in/%E9%A3%9E-%E8%AE%B8-89b118293/" },
+    { telegram = "https://t.me/username" },
+  ]
+  headline = "Hello, and welcome to my blog! I'm XuFei"
 
 # [params.author]
 #   name = "Your name here"

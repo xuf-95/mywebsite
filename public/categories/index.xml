@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Blowfish</title>
-    <link>//localhost:64339/categories/</link>
-    <description>Recent content in Categories on Blowfish</description>
+    <title>Categories on Sherlock XuF</title>
+    <link>http://localhost:50642/categories/</link>
+    <description>Recent content in Categories on Sherlock XuF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="//localhost:64339/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>youremail@example.com (XuFei)</managingEditor>
+    <webMaster>youremail@example.com (XuFei)</webMaster>
+    <copyright>© 2024 XuFei</copyright>
+    <atom:link href="http://localhost:50642/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
